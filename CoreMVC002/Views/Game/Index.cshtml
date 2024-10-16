@@ -1,0 +1,27 @@
+﻿@model CoreMVC002.Models.XAXBEngine
+
+<h2>猜數字遊戲</h2>
+
+<form asp-action="Guess" method="post">
+    <label>輸入你的猜測:</label>
+    <input type="text" name="guessNumber" maxlength="4" required />
+    <button type="submit">猜測</button>
+</form>
+
+<p>猜測結果: @ViewBag.Message</p>
+<p>累計猜測次數: @Model.GuessCount</p>
+
+<h3>猜測歷史</h3>
+@foreach (var guess in Model.GuessHistory)
+
+{
+    <p>@guess</p>
+}
+
+@if (ViewBag.PromptReplay != null)
+
+{
+    <form asp-action="Replay" method="post">
+        <button type="submit">重新開始遊戲</button>
+    </form>
+}

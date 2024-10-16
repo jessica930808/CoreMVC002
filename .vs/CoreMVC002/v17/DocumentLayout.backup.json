@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|c:\\users\\zenbook\\onedrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\coremvc002\\coremvc002\\models\\xaxbengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|solutionrelative:coremvc002\\models\\xaxbengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|c:\\users\\zenbook\\onedrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\coremvc002\\coremvc002\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|solutionrelative:coremvc002\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|c:\\users\\zenbook\\onedrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\coremvc002\\coremvc002\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DFD5FC72-C46D-488B-8123-28CA69612706}|CoreMVC002\\CoreMVC002.csproj|solutionrelative:coremvc002\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "CoreMVC002\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Controllers\\GameController.cs",
+              "RelativeToolTip": "CoreMVC002\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:10:54.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XAXBEngine.cs",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Models\\XAXBEngine.cs",
+              "RelativeDocumentMoniker": "CoreMVC002\\Models\\XAXBEngine.cs",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Models\\XAXBEngine.cs",
+              "RelativeToolTip": "CoreMVC002\\Models\\XAXBEngine.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwDUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T07:30:26.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoreMVC002\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ZenBook\\OneDrive\\\u684C\u9762\\\u9AD8\u6548\u7DB2\u7AD9\u4F5C\u696D\\CoreMVC002\\CoreMVC002\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "CoreMVC002\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-12T07:32:45.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
